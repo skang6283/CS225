@@ -1,4 +1,4 @@
-# CS225git
+# CS225 Data Structure
 
 This repository contains labs and MPs for CS225 Fall 2019.
 
